@@ -48,6 +48,23 @@
     <li> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="15" height="15"/>Adobe photoshop</li>
 </ul>
 
+
+<h3 align="left">Soft skills</h3>
+
+<ul>
+    <li> Multitasking</li>
+    <li> Communication skills</li>
+    <li> Self-learning</li>
+    <li> Accountability</li>
+</ul>
+
+<h3 align="left">Languages</h3>
+    <li>Russian – Native</li>
+    <li>English – C1 (IELTS av. 7.8)</li>
+    <li>French – A2 </li>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     
