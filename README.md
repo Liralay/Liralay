@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, My name is Yuri</h1>
 <h3 align="center">Currently studying computer science in NUST MISIS (Moscow). <br> Very passioned about Computer Science topic and desire of creating cool software for the good of all people!</h3>
-- 🔭 Trying my best to combine my studies at the university with my work as a technical editor at Yandex as a technical editor at Yandex
+- 🔭 Trying my best to combine my studies at the university with my work as a technical editor at Yandex
 <br>
 <br>
 
