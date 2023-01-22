@@ -51,7 +51,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     
-<a href="https://t.me/liralay" target="blank"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg"alt="tg" width="40" height="40"/>
+<a href="https://t.me/liralay" target="blank"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="tg" width="40" height="40"/>
 </a>
 <br>
 <br>
