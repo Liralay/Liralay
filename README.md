@@ -55,5 +55,5 @@
 </a>
 <br>
 <br>
-<p>Also you can reach me by E-Mail:<a href="mailto:liralaysometimes@yandex.ru">liralaysometimes@yandex.ru</a></p>
+<p>Also you can reach me by E-Mail: <a href="mailto:liralaysometimes@yandex.ru">liralaysometimes@yandex.ru</a></p>
 </p>
