@@ -6,7 +6,7 @@
 <br>
 <br>
 
-- 👨‍💻 During my studies at university I have learn:
+- 👨‍💻 During my studies at university I have learned:
 <ul>
     <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/> Python
         <ul>
