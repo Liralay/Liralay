@@ -11,24 +11,24 @@
     <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/> Python
         <ul>
             <li> Python Language(Advanced)</li>
-            <li> Machine learning (Bacic) </li>
-            <li> BackEnd development (Bacic) <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="15" height="15"/></li>
+            <li> Machine learning (Basic) </li>
+            <li> BackEnd development (Basic) <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="15" height="15"/></li>
         </ul> 
         </li>
     <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="15" height="15"/> C#
         <ul>
-            <li> C# Language (Bacic)</li>
-            <li> ASP.NET (Bacic) </li>
+            <li> C# Language (Basic)</li>
+            <li> ASP.NET (Basic) </li>
         </ul> 
     </li>
     <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="15" height="15"/>С++
         <ul>
-            <li>  C++ Language (Bacic)</li>
+            <li>  C++ Language (Basic)</li>
         </ul> 
     </li>
     <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="15" height="15"/> HTML5</li> 
     <ul>
-        <li>  HTML (Bacic) </li>
+        <li>  HTML (Basic) </li>
         <li> CSS (Basic) </li>
         <li>JS (Slightly Below Basic 😅)</li>
     </ul> 
