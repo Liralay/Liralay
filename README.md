@@ -60,7 +60,7 @@
 
 <h3 align="left">Languages</h3>
     <li>Russian – Native</li>
-    <li>English – C1 (IELTS avg score 7.8)</li>
+    <li>English – C1 (IELTS avg score 8)</li>
     <li>French – A2 </li>
     <li>Ukranian – A2 </li>
 
